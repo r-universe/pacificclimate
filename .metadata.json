@@ -1,0 +1,14 @@
+[
+  {
+    "package": "climdex.pcic",
+    "oncran": true
+  },
+  {
+    "package": "ncdf4.helpers",
+    "oncran": true
+  },
+  {
+    "package": "udunits2",
+    "oncran": true
+  }
+]
