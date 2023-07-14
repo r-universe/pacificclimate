@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "climdex.pcic"]
-	path = climdex.pcic
-	url = https://github.com/pacificclimate/climdex.pcic
 [submodule "ncdf4.helpers"]
 	path = ncdf4.helpers
 	url = https://github.com/pacificclimate/ncdf4.helpers
